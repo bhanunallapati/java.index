@@ -1,0 +1,15 @@
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.478750] 00:00:00.004887 main     OS Product: Linux
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.478938] 00:00:00.005172 main     OS Release: 3.13.0-86-generic
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.483328] 00:00:00.009468 main     OS Version: #131-Ubuntu SMP Thu May 12 23:33:13 UTC 2016
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.483580] 00:00:00.009820 main     OS Service Pack: #131-Ubuntu SMP Thu May 12 23:33:13 UTC 2016
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.487551] 00:00:00.013624 main     Executable: /usr/sbin/VBoxService
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.487551] 00:00:00.013653 main     Process ID: 1040
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.487551] 00:00:00.013672 main     Package type: LINUX_64BITS_GENERIC (OSE)
+Jun  9 01:35:22 vagrant-ubuntu-trusty-64 kernel: [   36.501988] 00:00:00.028098 main     4.3.36_Ubuntu r105129 started. Verbose level = 0
+Jun  9 01:35:27 vagrant-ubuntu-trusty-64 ntpdate[1014]: adjust time server 91.189.94.4 offset 0.005299 sec
+Jun  9 01:35:28 vagrant-ubuntu-trusty-64 puppet-agent[1093]: Reopening log files
+Jun  9 01:35:29 vagrant-ubuntu-trusty-64 puppet-agent[1093]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  9 01:35:34 vagrant-ubuntu-trusty-64 kernel: [   49.219650] init: plymouth-upstart-bridge main process ended, respawning
+Jun  9 01:52:23 vagrant-ubuntu-trusty-64 kernel: [ 1057.464093] hrtimer: interrupt took 12093099 ns
+Jun  9 01:57:29 vagrant-ubuntu-trusty-64 puppet-agent[1093]: message repeated 11 times: [ Could not request certificate: getaddrinfo: Name or service not known]
+Jun  9 01:57:31 vagrant-ubuntu-trusty-64 puppet-agent[1093]: Could not run: SIGTERM

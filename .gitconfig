@@ -1,0 +1,5 @@
+[user]
+	email = kushi@example.com
+	name = kushi
+[push]
+	default = simple

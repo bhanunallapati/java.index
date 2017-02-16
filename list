@@ -1,0 +1,8 @@
+total 20
+drwxr-xr-x 2 root root 4096 Jun  9 02:00 copy
+-rw-r--r-- 1 root root   30 Jun  9 01:39 example
+-rw-r--r-- 1 root root 1809 Jun  9 02:07 infolog15
+-rw-r--r-- 1 root root    0 Jun  9 02:08 list
+-rw-r--r-- 1 root root 1611 Jun  8 16:02 sort
+-rw-r--r-- 1 root root    0 Jun  7 01:38 test
+-rw-r--r-- 1 root root  154 Jun  8 15:58 twolines
