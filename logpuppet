@@ -1,0 +1,16 @@
+Jun  2 16:27:20 vagrant-ubuntu-trusty-64 puppet-agent[1451]: Reopening log files
+Jun  2 16:27:29 vagrant-ubuntu-trusty-64 puppet-agent[1451]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  6 15:46:26 vagrant-ubuntu-trusty-64 puppet-agent[1098]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  6 15:46:26 vagrant-ubuntu-trusty-64 puppet-agent[1098]: Reopening log files
+Jun  7 01:35:18 vagrant-ubuntu-trusty-64 puppet-agent[1078]: Reopening log files
+Jun  7 01:35:19 vagrant-ubuntu-trusty-64 puppet-agent[1078]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  7 10:49:50 vagrant-ubuntu-trusty-64 puppet-agent[1091]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  7 10:49:50 vagrant-ubuntu-trusty-64 puppet-agent[1091]: Reopening log files
+Jun  8 06:28:32 vagrant-ubuntu-trusty-64 puppet-agent[1095]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  8 06:28:32 vagrant-ubuntu-trusty-64 puppet-agent[1095]: Reopening log files
+Jun  8 15:32:40 vagrant-ubuntu-trusty-64 puppet-agent[1091]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  8 15:32:40 vagrant-ubuntu-trusty-64 puppet-agent[1091]: Reopening log files
+Jun  9 01:35:28 vagrant-ubuntu-trusty-64 puppet-agent[1093]: Reopening log files
+Jun  9 01:35:29 vagrant-ubuntu-trusty-64 puppet-agent[1093]: Could not request certificate: getaddrinfo: Name or service not known
+Jun  9 01:57:29 vagrant-ubuntu-trusty-64 puppet-agent[1093]: message repeated 11 times: [ Could not request certificate: getaddrinfo: Name or service not known]
+Jun  9 01:57:31 vagrant-ubuntu-trusty-64 puppet-agent[1093]: Could not run: SIGTERM
